@@ -1,9 +1,9 @@
 **Asteroids  javaProject for COMP30820-JAVA Programming**
 
 **Project Team:**
-Xiuping Xue
-Dean O'Brien
-Joseph Tummon
+Xiuping Xue,
+Dean O'Brien,
+Joseph Tummon,
 Pedro Antonio Mora Chacón
 
 **Supervisor:**
